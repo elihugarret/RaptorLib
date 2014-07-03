@@ -13,4 +13,5 @@ def:seq
   vars = shuffle({5,20,6}), --A pattern variation, the "shuffle()" function is like the ".scramble" method in SC
   tempo = 190,
   volL = 1,
-  volR = 1   }
+  volR = 1
+  }
