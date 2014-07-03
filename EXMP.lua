@@ -10,4 +10,7 @@ def:seq{ -- The def:seq{} function is like the Tdef in SC
   lenght = 9, -- The number of iterations
   every = 2, -- Every two iteration the pattern is changed
   vars = shuffle({5,20,6}), --A pattern variation, the "shuffle()" function is like the ".scramble" method in SC
-  tempo = 190,volL = 1,volR = 1}
+  tempo = 190,
+  volL = 1,
+  volR = 1
+  }
