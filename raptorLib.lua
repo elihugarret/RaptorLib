@@ -4,7 +4,7 @@
 --Sequencers, pseudo-samplers and a lot of stuff
 
 require("microRaptor")
-require("ArrayLib")
+require("Tables")
 
 math.randomseed(os.clock())
 
