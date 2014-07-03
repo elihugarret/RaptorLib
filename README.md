@@ -9,7 +9,7 @@ I wrote these libraries for a livecoding workshop at Escuela Superior de Física
 
 Introduction
 ======
-RaptorLibs are modules for sequencing and manipulating sound (synthesis and samples) in Lua.
+RaptorLibs are modules for sequencing and manipulating sound (synthesis and samples) in Lua. Inspired by Alex McLean's Tidal http://yaxu.org/tidal/ and Thor Magnusson's Ixi Lang https://github.com/thormagnusson/ixilang
 
 How it works? -- Basically, i wrote a lot of functions and nerdy stuff using the Gerald Franz's proteaAudio Lua API for synthesis and sample manipulation.
                  http://viremo.eludi.net/proteaAudio/proteaaudiolua.html
