@@ -16,6 +16,8 @@ How it works? -- Basically, i wrote a lot of functions and nerdy stuff using the
 
 Live coding is possible if you use the "live coding function" in Paul Kulchenko's ZeroBrane StudioIDE. http://notebook.kulchenko.com/zerobrane/live-coding-in-lua-bret-victor-style
 
+Live coding is also possible if you use this: ::pool:: require "yourdocument" package.loaded.yourdocument = nil yourfunction() goto pool
+
 
 Examples
 ===
